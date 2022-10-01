@@ -84,7 +84,10 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Spots</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Surfers</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
